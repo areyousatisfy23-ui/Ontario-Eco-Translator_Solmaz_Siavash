@@ -33,6 +33,7 @@ Add it to your environment as GOOGLE_API_KEY.
 Run the Notebook:
 
 Upload the .ipynb file to Google Colab and run all cells.
+![AI Answer Screenshot](assets/answer_screenshot.png)
 
 📈 Future Roadmap
 [ ] Add a Gradio-based web interface.
