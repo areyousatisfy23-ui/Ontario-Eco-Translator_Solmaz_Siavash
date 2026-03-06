@@ -1,0 +1,14 @@
+# Secret Keys
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database
+chroma_db/
+
+# Virtual Environments
+venv/
+env/
