@@ -1,9 +1,4 @@
 # Ontario-Eco-Translator_Solmaz_Siavash
-An NLP RAG assistant for Newmarket energy efficiency using IEA 2025 standards.
-For your Newmarket Energy Translator project, your README should act like an "elevator pitch" for a recruiter or your teacher. It needs to explain not just what the code does, but why it matters for Ontario's 2026 energy goals.
-
-Here is a professional template you can copy and paste into your README.md file:
-
 ⚡ Newmarket Energy Translator (2026)
 Bridging the gap between complex utility rates and Newmarket residents using AI.
 
@@ -51,7 +46,7 @@ Visuals: Use the `
 
 
 Shutterstock
-` tag to show the teacher you understand the "plumbing" of the AI.
+` tag understand the "plumbing" of the AI.
 
 Business Value: It frames the project as a solution for "Newmarket residents," not just a school assignment.
 
