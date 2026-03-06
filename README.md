@@ -3,9 +3,11 @@
 Bridging the gap between complex utility rates and Newmarket residents using AI.
 
 📖 Project Overview
+
 This project is a Retrieval-Augmented Generation (RAG) tool designed to help residents of Newmarket, Ontario, understand the new 2026 NT Power rates. By combining specialized local energy data with Google's Gemini 1.5 Flash model, the assistant provides instant, human-readable answers about cost savings, specifically focusing on the Ultra-Low Overnight (ULO) rates for EV charging.
 
 🚀 Key Features
+
 Context-Aware Q&A: Answers specific questions about Newmarket’s 2026 energy tariffs.
 
 Sustainable Insights: Integrates IEA 2025 report data to explain the environmental benefits of shifting energy loads.
@@ -13,6 +15,7 @@ Sustainable Insights: Integrates IEA 2025 report data to explain the environment
 2026 Tech Stack: Built with the latest gemini-embedding-001 and langchain-classic for modern AI orchestration.
 
 🛠️ Tech Stack
+
 LLM: Google Gemini 1.5 Flash
 
 Orchestration: LangChain / LangChain-Classic
