@@ -41,8 +41,7 @@ Upload the .ipynb file to Google Colab and run all cells.
 
 [ ] Expand data to include York Region water and waste management tips.
 
-Why this README gets you a higher grade:
-Visuals: Use the `
+`
 
 
 Shutterstock
