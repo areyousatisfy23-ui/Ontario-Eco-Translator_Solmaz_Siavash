@@ -37,6 +37,7 @@ Upload the .ipynb file to Google Colab and run all cells.
 
 
 📈 Future Roadmap
+
 [ ] Add a Gradio-based web interface.
 
 [ ] Integrate real-time weather data to predict solar savings.
