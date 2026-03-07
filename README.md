@@ -28,8 +28,8 @@ Environment: Google Colab
 Clone the Repo:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/Newmarket-Energy-Translator.git
-API Keys: * Obtain a free Gemini API key from Google AI Studio.
+git clone
+API Keys: Obtain a free Gemini API key from Google AI Studio.
 
 Add it to environment as GOOGLE_API_KEY.
 
@@ -50,9 +50,7 @@ Upload the .ipynb file to Google Colab and run all cells.
 `
 
 
-Shutterstock
-` tag understand the "plumbing" of the AI.
 
-Business Value: It frames the project as a solution for "Newmarket residents," not just a school assignment.
+Business Value: This project serves as a solution for "Newmarket residents," not just a school assignment.
 
-Troubleshooting: Mentioning langchain-classic shows you navigated real-world software updates.
+Troubleshooting: langchain-classic is time consuming which is part of navigated real-world software updates.
